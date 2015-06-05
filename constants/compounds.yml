@@ -134,13 +134,13 @@ PlantedTanksUK Trace:
   tsp:    6000
   target: Fe
 Plantex CSM+B:
-  Fe:     0.0653
-  Mn:     0.0187
-  Cu:     0.0009
-  Mg:     0.014
-  Zn:     0.0037
-  Mo:     0.0005
-  B:      0.008
+  Fe:     7.0 
+  Mn:     2.0
+  Cu:     0.1
+  Mg:     1.5
+  Zn:     0.40
+  Mo:     0.06
+  B:      0.04
   dGH:    0.00320670391
   tsp:    4300
   sol:    170
